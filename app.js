@@ -33,3 +33,14 @@ function ResultadoNomes() {
         lista.appendChild(li);
     });
 }
+
+function sortearAmigo() {
+    let resultado = document.querySelector("#resultado");
+    if(amigos.length < 2) {
+        resultado.textContent = "Adicione pelo menos dois amigo para sortear";
+        return;
+    }
+    let sorteado = amigos[Math.floor(Math.random() * amigos.length)];
+    resultado.textContent = `o amigo sorteado é: ${sorteado}`;
+    
+}
