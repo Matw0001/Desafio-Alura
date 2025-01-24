@@ -2,11 +2,11 @@
 
 let amigos = [];
 
-function adicionarAmigos() {
-    let input = document.querySelector('input');
+function adicionarAmigo() {
+    let input = document.querySelector("input");
     let nome = input.value.trim();
 
-    if(nome == "") {
+    if(nome === "") {
         alert('Ops! Digite um nome.')
         return;
     }
@@ -20,4 +20,16 @@ function adicionarAmigos() {
     input.value = "";
     ResultadoNomes();
     
+}
+adicionarAmigo();
+
+function ResultadoNomes() {
+    let lista = document.querySelector("#listaAmigos");
+    lista.innerHTML = "";
+    
+    amigos.forEach(nome => {
+        let li = document.createElement("li");
+        li.textContent = nome;
+        lista.appendChild(li);
+    });
 }
