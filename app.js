@@ -7,7 +7,7 @@ function adicionarAmigo() {
     let nome = input.value.trim();
 
     if(nome == "") {
-        alert('Ops! Digite um nome.')
+        alert('Oops! Digite um nome.')
         return;
     }
 
