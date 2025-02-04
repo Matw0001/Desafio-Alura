@@ -11,6 +11,8 @@
 uma simples brincadeira, ou apenas testar suas funcionalidades.
 
 ❓ - __Como usar?__ - 
+- Primeiro Digite o nome que deseja adicionar a lista.
+- Aperte em sortear e espere sair o nome sortudo.
 - O programa consiste em adicionar nomes para serem sorteados,
 precisa ter ao menos 2 nomes para prosseguir.
 
