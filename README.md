@@ -1,6 +1,6 @@
 - *Um desafio feito pela Alura* -
 
-📌 - __Funcionalidades__
+📌 - __Funcionalidades__ -
 -  Função adicionar nome a lista.
 -  Exibir nome escolhido na tela.
 -  Função para sortear o nome.
@@ -15,7 +15,7 @@ uma simples brincadeira, ou apenas testar suas funcionalidades.
 precisa ter ao menos 2 nomes para prosseguir.
 
 ✅ - __Instalação.__
-__Primeiro passo__
+- __Primeiro passo__
 - Clone este repositorio: https://github.com/Matw0001/Desafio-Alura.git
 - __Segundo passo__
 - Coloque o caminho: cd nome-do-repositorio
