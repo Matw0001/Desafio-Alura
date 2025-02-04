@@ -1,4 +1,4 @@
-- *Um desafio feito pela Alura* -
+- -*Um desafio feito pela Alura* -
 
 📌 - __Funcionalidades__ -
 -  Função adicionar nome a lista.
