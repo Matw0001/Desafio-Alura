@@ -18,7 +18,7 @@ precisa ter ao menos 2 nomes para prosseguir.
 - __Primeiro passo__
 - Clone este repositorio: https://github.com/Matw0001/Desafio-Alura.git
 - __Segundo passo__
-- Coloque o caminho: cd nome-do-repositorio
+- Coloque o caminho: cd Desafio-Alura
 - __Terceiro e ultimo passo__
 - Execute: app.js
 
